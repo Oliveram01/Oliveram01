@@ -28,7 +28,7 @@ Me especializo en la protección de infraestructuras digitales, análisis de vul
 ---
 
 ### 📫 Conectemos:
-- [LinkedIn](https://www.linkedin.com/in/oliver-abreu/)  
+- [LinkedIn](https://www.linkedin.com/in/oliver-abreu-081979244/)  
 - Correo: **oliverabreu652@gmail.com**
 
 ---
