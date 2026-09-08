@@ -27,6 +27,18 @@ Me especializo en la protección de infraestructuras digitales, análisis de vul
 
 ---
 
+## 🏅 Certificaciones e Insignias
+
+### Cisco Networking Academy
+
+**Introduction to Cybersecurity — 2026**
+
+<img src="introduction_to_cybersecurity_16.png" width="220">
+
+Curso completado en Cisco Networking Academy, fortaleciendo mis conocimientos fundamentales en ciberseguridad y protección de sistemas.
+
+---
+
 ### 📫 Conectemos:
 - [LinkedIn](https://www.linkedin.com/in/oliver-abreu-081979244/)  
 - Correo: **oliverabreu652@gmail.com**
