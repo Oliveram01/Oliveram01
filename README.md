@@ -1,7 +1,7 @@
 ## ¡Hola, soy Oliver Abreu! 👋
 
 🎓 Estudiante de Maestría en Ciberseguridad | 💻 Profesional de TI  
-🌐 Apasionado por la protección de sistemas, la tecnología y el aprendizaje continuo
+🌐 Apasionado por la protección de sistemas, la tecnología y el aprendizaje continuo.
 
 ---
 
