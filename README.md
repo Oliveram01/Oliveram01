@@ -37,6 +37,14 @@ Me especializo en la protección de infraestructuras digitales, análisis de vul
 
 Curso completado en Cisco Networking Academy, fortaleciendo mis conocimientos fundamentales en ciberseguridad y protección de sistemas.
 
+**Networking Basics — 2026**
+
+<img src="networking_basics.png" width="220">
+
+Curso completado en Cisco Networking Academy, fortaleciendo mis conocimientos en fundamentos de redes, direccionamiento IP, protocolos y funcionamiento de las comunicaciones de red.
+
+
+
 ---
 
 ### 📫 Conectemos:
