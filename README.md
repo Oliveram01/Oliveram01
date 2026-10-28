@@ -44,6 +44,17 @@ Curso completado en Cisco Networking Academy, fortaleciendo mis conocimientos fu
 Curso completado en Cisco Networking Academy, fortaleciendo mis conocimientos en fundamentos de redes, direccionamiento IP, protocolos y funcionamiento de las comunicaciones de red.
 
 
+## 🏅 Insignias y certificaciones
+
+### Cisco Networking Academy
+
+Continúo aprendiendo y fortaleciendo mis conocimientos en redes informáticas como parte de mi formación en tecnología y ciberseguridad.
+
+![Insignia de Networking](./networking_inicial.png)
+
+[Ver insignia en Credly](https://www.credly.com/earner/earned/share/d849c0f9-266c-4cb6-9a27-cd7b1b9c7920)
+
+
 
 ---
 
