@@ -44,8 +44,6 @@ Curso completado en Cisco Networking Academy, fortaleciendo mis conocimientos fu
 Curso completado en Cisco Networking Academy, fortaleciendo mis conocimientos en fundamentos de redes, direccionamiento IP, protocolos y funcionamiento de las comunicaciones de red.
 
 
-## 🏅 Insignias y certificaciones
-
 ### Cisco Networking Academy
 
 Continúo aprendiendo y fortaleciendo mis conocimientos en redes informáticas como parte de mi formación en tecnología y ciberseguridad.
@@ -54,7 +52,16 @@ Continúo aprendiendo y fortaleciendo mis conocimientos en redes informáticas c
 
 [Ver insignia en Credly](https://www.credly.com/earner/earned/share/d849c0f9-266c-4cb6-9a27-cd7b1b9c7920)
 
+#### Análisis, Explotación y Auditoría de Ciberseguridad (Hacking Ético)
 
+- **Institución:** Spain Business School
+- **Fecha:** 17 de noviembre de 2026
+- **Tipo:** Certificado de asistencia y participación
+- **Código de verificación:** 7150120261117252915
+
+<p align="center">
+  <img src="./Certificaciones/sbs.png" alt="Certificado Spain Business School" width="700">
+</p>
 
 ---
 
