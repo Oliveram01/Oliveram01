@@ -59,9 +59,11 @@ Continúo aprendiendo y fortaleciendo mis conocimientos en redes informáticas c
 - **Tipo:** Certificado de asistencia y participación
 - **Código de verificación:** 7150120261117252915
 
+
 <p align="center">
-  <img src="./Certificaciones/sbs.jpg" alt="Certificado Spain Business School" width="700">
+  <img src="./sbs.JPG" alt="Certificado Spain Business School" width="700">
 </p>
+
 
 ---
 
