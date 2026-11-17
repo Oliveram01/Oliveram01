@@ -60,7 +60,7 @@ Continúo aprendiendo y fortaleciendo mis conocimientos en redes informáticas c
 - **Código de verificación:** 7150120261117252915
 
 <p align="center">
-  <img src="./Certificaciones/sbs.png" alt="Certificado Spain Business School" width="700">
+  <img src="./Certificaciones/sbs.jpg" alt="Certificado Spain Business School" width="700">
 </p>
 
 ---
